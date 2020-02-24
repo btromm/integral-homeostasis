@@ -1,5 +1,5 @@
 ## Integrative Activity-Dependent Homeostasis
-### July 18, 2019   
+### July 19, 2019   
 ### Author: `Bobby Tromm` | `Marder Lab @ Brandeis U`
 
 ---
